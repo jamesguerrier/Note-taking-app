@@ -1,0 +1,19 @@
+{
+  "name": "notetaking-app",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=H1BebGmRjzE&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo&index=4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
